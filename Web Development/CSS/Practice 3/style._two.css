@@ -1,0 +1,30 @@
+*{
+    color: white;
+}
+div{
+    height: 60px;
+    background-color: #0f1111;
+    border: 5px;
+    border-color: aliceblue;
+    border-style: solid;
+
+}
+#logo{
+    font-size: 25px;
+    color: #f08804;
+}
+button{
+    background-color: #f08804;
+}
+body{
+    background-color: burlywood;
+}
+
+/* input{
+    margin-left: 40px;
+} */
+a{
+    text-decoration: none;
+    color: white;
+    margin-right: 200px;
+}

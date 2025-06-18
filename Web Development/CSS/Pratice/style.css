@@ -1,0 +1,15 @@
+#info{
+    background-color: blue;
+}
+
+body{
+    background-color: rgba(71, 72, 75, 0.568);
+}
+
+.MYCLASS{
+    color:red;
+}
+
+button{
+    background-color: green;
+}

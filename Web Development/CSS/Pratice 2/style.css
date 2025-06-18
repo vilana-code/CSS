@@ -1,0 +1,26 @@
+*{font-family: 'Times New Roman', Times, serif;}
+#key{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+p{
+    text-align: center;
+    font-size: large;
+    font-weight: 500;
+    font-style: italic;
+    text-decoration: line-through;
+}
+
+#one{
+    text-align: center;
+}
+h1{
+    text-align: left;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+}

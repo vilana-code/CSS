@@ -1,0 +1,14 @@
+div{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    color: green;
+    background-color: aqua;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+    margin-left: 100px;
+}
+body{
+    color: black;
+}
